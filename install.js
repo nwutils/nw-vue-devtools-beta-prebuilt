@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const unzip = require("unzip-crx-3");
-const vuejsDevToolsId = 'nhdogjmejiglipccpnnnanhbledajbpd';
+const vuejsDevToolsId = 'ljjemllljcmogpfapbkkighbhhppjdbg';
 const crx = path.join(__dirname, vuejsDevToolsId + '.crx');
 const manifestFile = path.join(__dirname, 'extension/manifest.json');
 const pkgFile = path.join(__dirname, 'extension/package.json');
