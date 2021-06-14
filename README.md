@@ -1,5 +1,5 @@
-# nw-vue-devtools-prebuilt
-Install prebuilt Vue DevTools extension to use in a NW.js application
+# nw-vue-devtools-beta-prebuilt
+Install prebuilt Vue DevTools-Beta extension to use in a NW.js application
 
 ## Instructions
 
