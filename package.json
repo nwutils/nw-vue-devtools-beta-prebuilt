@@ -1,8 +1,8 @@
 {
-  "name": "nw-vue-devtools-prebuilt",
-  "description": "Add prebuilt (from Chrome Web Store) VueDevTools extension into NW.js",
-  "author": "Dimitri Pandeleakis",
-  "version": "0.0.10",
+  "name": "nw-vue-devtools-beta-prebuilt",
+  "description": "Add prebuilt (from Chrome Web Store) VueDevTools-Beta extension into NW.js",
+  "author": "Dimitri Pandeleakis & The Jared Wilcurt",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "postinstall" : "node install.js"
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DimPaDev/nw-vue-devtools-prebuilt.git"
+    "url": "git+https://github.com/nwutils/nw-vue-devtools-beta-prebuilt.git"
   },
   "keywords": [
     "Vue.js",
