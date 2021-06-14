@@ -1,5 +1,5 @@
 {
-  "name": "helloworld-nw-vue-devtools",
+  "name": "helloworld-nw-vue-devtools-beta",
   "main": "index.html",
-  "chromium-args": "--load-extension='./node_modules/nw-vue-devtools-prebuilt/extension'"
+  "chromium-args": "--load-extension='./node_modules/nw-vue-devtools-beta-prebuilt/extension'"
 }
