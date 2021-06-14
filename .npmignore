@@ -1,5 +1,6 @@
 .git/
 .github/
+example/
 coverage/
 node_modules/
 tests/
@@ -11,3 +12,4 @@ tests/
 CODE_OF_CONDUCT.md
 jest.config.js
 package-lock.json
+index.html
